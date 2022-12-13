@@ -1,45 +1,55 @@
-<head>
-<link rel="stylesheet" href="style.css">
-</head> 
-
-p{
-   display:in-line-block;
-   vertical-align:top;
+p {
+    display: inline-block;
+    vertical-align: top;
 }
 
-p{
-    .Logo
-    width: 15px;
-    padding: 5%;
-    text-align:center; 
+#Logo {
+    width: 80px;
+    padding: 3%;
+    text-align: center;
 }
 
-p{
-    .ul
+
+ .navbar{
     width: 50%;
-    margin-left:auto
+    margin-left: auto;
+    display: inline-block;
 }
 
-p{
-    .herolmg
+.navbar li{
+    display: inline-block;
+}
+
+.herolmg {
     height: 600px;
     padding: 25px;
 }
 
-p{
-    .content
-    width: 500px;
-    margin: 0 auto;
 
+
+#Photo {
+    width: 275px;
+    height: 400px;
+}
+
+
+footer {
+    background-color: #b5838e;
 }
 
 p{
-    .Image
-    width: 50px;
-    height: 50px; 
+    color: white;
 }
 
-p{
-    .footer
-    background-color: black;$
+h1{
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+ul{
+    color: white;
+    display:inline-block
 }
