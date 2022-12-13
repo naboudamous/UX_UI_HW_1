@@ -6,7 +6,6 @@ p {
 #Logo {
     width: 80px;
     padding: 3%;
-    text-align: center;
 }
 
 
@@ -16,9 +15,11 @@ p {
     display: inline-block;
 }
 
+
 .navbar li{
     display: inline-block;
 }
+
 
 .herolmg {
     height: 600px;
@@ -26,10 +27,10 @@ p {
 }
 
 
-
 #Photo {
-    width: 275px;
-    height: 400px;
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
 }
 
 
@@ -39,17 +40,22 @@ footer {
 
 p{
     color: white;
+    font-family: 'DM Sans', sans-serif;
 }
 
 h1{
     color: white;
+    font-family: 'DM Serif Display', serif;
 }
+
 
 body {
     background-color: black;
 }
 
+
 ul{
     color: white;
-    display:inline-block
+    display:inline-block;
+    font-family: 'DM Sans', sans-serif;
 }
