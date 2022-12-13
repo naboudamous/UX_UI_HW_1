@@ -20,6 +20,12 @@ p {
     display: inline-block;
 }
 
+li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
 
 .herolmg {
     height: 600px;
@@ -41,11 +47,15 @@ footer {
 p{
     color: white;
     font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    float: left;
 }
 
 h1{
     color: white;
     font-family: 'DM Serif Display', serif;
+    font-size: 40px;
 }
 
 
